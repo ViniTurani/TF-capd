@@ -1,0 +1,20 @@
+
+
+
+
+EU (Vini) terminei a integração dos dados e a limpeza, e to começando a fazer 
+o relatorio. (pretendo terminar até sexta-feira)
+
+O que falta fazer:
+
+2. Dashboards geradas com PowerBI ou equivalente.
+3. Relatório textual seguindo uma metodologia CRISP-DM, descrevendo as hipóteses de pesquisa,
+as bases de dados escolhidas, técnicas de integração, limpeza e transformação utilizadas,
+conclusões obtidas a partir das análises realizadas, além de referências utilizadas.
+
+4. Além das entregas, também deve ser preparada uma apresentação final descrevendo todas as etapas
+do trabalho e os resultados encontrados.As apresentações para a turma ocorreram nos dias 02/12/2024 e 04/12/2024 e a ordem de
+apresentação ocorrerá por sorteio.
+
+
+*A etapa de modeling não é requisito essencial para o trabalho
